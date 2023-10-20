@@ -1,1 +1,2 @@
 # azterketaPraktiko1
+kaixo
